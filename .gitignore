@@ -1,0 +1,7 @@
+vendor/
+.git/
+.htaccess
+.vscode/
+INSTALL.txt
+LICENSE.txt
+README.txt
